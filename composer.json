@@ -1,0 +1,19 @@
+{
+    "name": "wpseed/wp-package-parser",
+    "description": "WordPress plugins and themes parser",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zorca Orcinus",
+            "email": "vs@zorca.org"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "psr-4": {"Wpseed\\WpPackageParser\\": "src/"}
+    },
+    "minimum-stability": "dev"
+}
