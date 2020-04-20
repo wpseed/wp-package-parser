@@ -14,7 +14,7 @@
 
     <testsuites>
         <testsuite name="Wpseed WpPackageParser Test Suite">
-            <directory>./tests/tests</directory>
+            <directory>./tests/unit-tests</directory>
         </testsuite>
     </testsuites>
 
